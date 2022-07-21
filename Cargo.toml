@@ -1,0 +1,10 @@
+[package]
+name = "philosophers_semaphore"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+async-std = { version = "1.11.0", features = ["unstable"] }
+futures = { version = "0.3.21", features = ["thread-pool"] }
+tokio = { version = "1", features = ["full"] }
+tokio-stream = "0.1.9"
