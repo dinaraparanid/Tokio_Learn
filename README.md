@@ -1,2 +1,2 @@
-# Philosophers_Semaphore
-Classic semaphore task about philosophers
+# Tokio Learn
+Исходный код к статье про крейт Tokio
